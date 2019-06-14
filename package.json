@@ -1,0 +1,12 @@
+{
+  "name": "node-workshop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/martyns0n/node-workshop.git",
+  "author": "martyns0n <zogacc@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pm2": "^3.5.1"
+  }
+}
